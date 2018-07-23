@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">#ff91919b</color>
+    <color name="accent_material_light">#ff91919b</color>
+    <color name="accent_device_default_50">#ff91919b</color>
+    <color name="accent_device_default_700">#ff91919b</color>
+    <color name="accent_device_default_dark">#ff91919b</color>
+    <color name="accent_device_default_light">#ff91919b</color>
+    <color name="material_deep_teal_200">#ff91919b</color>
+    <color name="material_deep_teal_500">#ff91919b</color>
+    <color name="user_icon_1">#ff91919b</color>
+</resources>
