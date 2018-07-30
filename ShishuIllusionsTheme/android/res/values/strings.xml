@@ -20,5 +20,8 @@
 
     <string name="system_overlay_shishuillusions">Shishu Illusions</string>
 
+    <!-- Show VoLTE text on Carrier name -->
+    <string name="carrier_text_volte" translatable="false"> | \uE11D</string>
+
 </resources>
 
