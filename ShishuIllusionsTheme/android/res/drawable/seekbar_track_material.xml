@@ -32,7 +32,7 @@
                 <item>
                     <shape android:shape="rectangle">
                        <size android:height="1.3dp" />
-                        <gradient android:startColor="@*android:color/accent_device_default_light" android:endColor="#5b2fff" />
+                        <gradient android:startColor="@*android:color/accent_device_default_light" android:endColor="@*android:color/bootleg_accent_gradient_end_color" />
                         <corners android:radius="12.0dip" />
                     </shape>
                 </item>
