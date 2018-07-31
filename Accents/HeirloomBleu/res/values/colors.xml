@@ -9,4 +9,7 @@
     <color name="material_deep_teal_200">#ff327ccb</color>
     <color name="material_deep_teal_500">#ff327ccb</color>
     <color name="user_icon_1">#ff327ccb</color>
+
+    <!-- Possible color to contrast with the gradient -->
+    <color name="bootleg_accent_gradient_end_color">#ff0cc597</color>
 </resources>
