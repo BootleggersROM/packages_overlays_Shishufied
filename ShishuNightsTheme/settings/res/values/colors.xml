@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="condition_card_background">#ff1c1c24</color>
-    <color name="suggestion_condition_background">@*android:color/background_material_dark</color>
+    <color name="condition_card_background">@*android:color/background_material_dark</color>
+    <color name="suggestion_condition_background">@*android:color/transparent</color>
     <color name="suggestion_tile_background">@*android:color/background_material_dark</color>
     <color name="suggestion_title_text_color">@*android:color/white</color>
     <color name="suggestion_summary_text_color">@*android:color/white</color>
@@ -17,5 +17,11 @@
     <color name="storage_private_3">@*android:color/accent_device_default_light</color>
     <color name="storage_private_4">@*android:color/accent_device_default_light</color>
     <color name="storage_private_5">@*android:color/accent_device_default_light</color>
+
+    <!-- Searchbar overlays -->
+    <color name="searchBarBackgroundColor">@*android:color/background_material_dark</color>
+
+    <!-- Icon tint colors -->
+    <color name="dashboard_icon_tint">@*android:color/accent_device_default_light</color>
 
 </resources>
