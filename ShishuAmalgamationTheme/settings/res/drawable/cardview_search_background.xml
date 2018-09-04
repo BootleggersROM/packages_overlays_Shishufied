@@ -2,6 +2,6 @@
     <gradient
         android:type="linear"
         android:startColor="@*android:color/accent_device_default_light"
-        android:endColor="#00000000"
+        android:endColor="@*android:color/bootleg_accent_gradient_end_color"
         android:angle="45"/>
 </shape>
