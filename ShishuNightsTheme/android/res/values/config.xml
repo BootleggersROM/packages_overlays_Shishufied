@@ -3,5 +3,4 @@
     <bool name="config_useDarkBgNotificationIconTextTinting">true</bool>
     <bool name="config_useDarkBgNotificationTinting_override">true</bool>
     <bool name="config_notificationTinting_override">true</bool>
-    <bool name="config_allowNotificationIconTextTinting">false</bool>
 </resources>
