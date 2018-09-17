@@ -3,8 +3,8 @@
     <color name="condition_card_background">@*android:color/black</color>
     <color name="suggestion_condition_background">@*android:color/black</color>
     <color name="suggestion_tile_background">@*android:color/black</color>
-    <!-- <color name="suggestion_title_text_color">@*android:color/white</color>
-    <color name="suggestion_summary_text_color">@*android:color/white</color> -->
+    <color name="suggestion_title_text_color">@*android:color/white</color>
+    <color name="suggestion_summary_text_color">@*android:color/white</color>
     <color name="material_grey_300">@*android:color/black</color>
 
     <!-- Wifi network details 
