@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidUnknownAttribute -->
+<vector xmlns:api24="http://schemas.android.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android"
+    android:viewportWidth="150"
+    android:viewportHeight="48"
+    android:width="150dp"
+    android:height="48dp">
+    <path
+        android:pathData="M5 -2.5L8.116 6.514 23.31 51.378c0 0 4.046 17.277 16.326 2.956 12.28 -14.318 28.227 -36.998 28.227 -36.998 0 0 11.047 -17.787 17.473 3.875 6.424 21.659 10.724 25.644 54.343 30.437"
+        android:strokeWidth="2"
+        android:strokeColor="@*android:color/accent_device_default_light"
+        android:strokeAlpha="0.14" />
+    <path
+        android:pathData="M2.5 -2.5l5.392 16.192 14.521 42.635c0 0 5.812 18.306 17.542 3.178C51.684 44.38 73.19 16.646 73.19 16.646c0 0 15.136 -21.173 20.32 3.681 5.186 24.853 17.51 29.093 45.93 32.635"
+        android:strokeWidth="2"
+        android:strokeColor="@*android:color/accent_device_default_light"
+        android:strokeAlpha="0.18" />
+    <path
+        android:pathData="M-0.982 -1.287l2.487 6 -0.057 -0.008 20.479 55.296c0 0 6.047 21.37 19.975 3.618 13.925 -17.753 38.947 -49.646 38.947 -49.646 0 0 14.479 -17.532 19.626 3.554 5.15 21.085 16.96 35.108 33.558 33.602"
+        android:strokeWidth="2"
+        android:strokeColor="@*android:color/accent_device_default_light"
+        android:strokeAlpha="0.22" />
+    <path
+        android:pathData="M-0.826 3.391l22.649 64.111c0 0 5.074 16.562 19.801 3.586 14.728 -12.975 45.937 -59.509 45.937 -59.509 0 0 12.623 -17.255 21.015 3.805 8.395 21.063 15.007 38.968 28.305 36.862"
+        android:strokeWidth="2"
+        android:strokeColor="@*android:color/accent_device_default_light"
+        android:strokeAlpha="0.26"/>
+    <path
+        android:pathData="M-1.335 6.515l1.694 5.031 -0.098 -0.288 20.961 61.549c0 0 7.263 16.356 20.494 3.712C54.949 63.876 93.872 9.414 93.872 9.414c0 0 14.28 -15.462 21.537 3.9 7.255 19.363 9.519 33.609 21.655 37.912"
+        android:strokeWidth="2"
+        android:strokeColor="@*android:color/accent_device_default_light"
+        android:strokeAlpha="0.30" />
+</vector>
