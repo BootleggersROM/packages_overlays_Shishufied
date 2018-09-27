@@ -7,6 +7,9 @@
     <color name="suggestion_summary_text_color">@*android:color/white</color>
     <color name="material_grey_300">@*android:color/black</color>
 
+    <!-- Searchbar overlays -->
+    <color name="search_bar_background_color">@*android:color/black</color>
+
     <!-- Wifi network details 
     <color name="wifi_details_icon_color">#8AFFFFFF</color>-->
 
