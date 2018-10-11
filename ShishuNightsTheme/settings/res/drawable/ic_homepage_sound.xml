@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2018 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <vector xmlns:api24="http://schemas.android.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android"
+            android:viewportWidth="48"
+            android:viewportHeight="48"
+            android:width="40dip"
+            android:height="40dip">
+            <path
+                android:pathData="M46.587999 24A22.587999 22.587999 0 0 1 24 46.587999 22.587999 22.587999 0 0 1 1.4120007 24 22.587999 22.587999 0 0 1 24 1.4120007 22.587999 22.587999 0 0 1 46.587999 24Z"
+                android:fillColor="@*android:color/accent_device_default_light"
+                android:fillAlpha="0.25"/>
+            <path
+                android:pathData="M46.368 24A22.368 22.368 0 0 1 24 46.368 22.368 22.368 0 0 1 1.632 24 22.368 22.368 0 0 1 24 1.632 22.368 22.368 0 0 1 46.368 24Z"
+                android:strokeWidth="3"
+                android:strokeMiterLimit="10"
+                android:strokeColor="@*android:color/accent_device_default_light" />
+        </vector>
+    </item>
+
+    <item
+        android:width="28dp"
+        android:height="28dp"
+        android:start="6dp"
+        android:top="6dp">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+                android:width="24dp"
+                android:height="24dp"
+                android:viewportWidth="24.0"
+                android:viewportHeight="24.0">
+            <path
+                android:fillColor="@*android:color/accent_device_default_light"
+                android:pathData="M3,9v6h4l5,5V4L7,9H3zM10,8.83v6.34L7.83,13H5v-2h2.83L10,8.83z"/>
+            <path
+                android:fillColor="@*android:color/accent_device_default_light"
+                android:pathData="M16.5,12c0,-1.77 -1.02,-3.29 -2.5,-4.03v8.05C15.48,15.29 16.5,13.77 16.5,12z"/>
+            <path
+                android:fillColor="@*android:color/accent_device_default_light"
+                android:pathData="M14,3.23v2.06c2.89,0.86 5,3.54 5,6.71c0,3.17 -2.11,5.85 -5,6.71v2.06c4.01,-0.91 7,-4.49 7,-8.77C21,7.72 18.01,4.14 14,3.23z"/>
+        </vector>
+    </item>
+</layer-list>
