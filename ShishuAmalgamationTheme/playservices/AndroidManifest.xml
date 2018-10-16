@@ -4,5 +4,5 @@
     android:versionName="1.0">
     <overlay android:targetPackage="com.google.android.gms" android:priority="1"/>
 
-    <application android:label="@string/system_overlay_shishuamalgamation" android:hasCode="false"/>
+    <application android:label="@string/system_overlay_shishuamalgamation" android:hasCode="false" android:icon="@mipmap/ic_launcher"/>
 </manifest>
