@@ -8,7 +8,7 @@
 
     <gradient
         android:type="linear"
-        android:angle="270"
+        android:angle="90"
         android:startColor="@*android:color/accent_device_default_light" android:endColor="@*android:color/bootleg_accent_gradient_end_color"
         android:centerX="0.4"
         android:gradientRadius="45"/>

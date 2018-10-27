@@ -20,7 +20,7 @@
         android:type="linear"
         android:startColor="@*android:color/accent_device_default_light"
         android:endColor="@*android:color/bootleg_accent_gradient_end_color"
-        android:angle="270"/>
+        android:angle="90"/>
     <size
         android:width="40dip"
         android:height="40dip" />
