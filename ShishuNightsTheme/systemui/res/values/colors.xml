@@ -18,6 +18,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <color name="qs_edit_item_decoration_bg">@*android:color/background_material_dark</color>
     <color name="quick_settings_status_bar_background_color">#9c000000</color>
 
 </resources>
