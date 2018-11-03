@@ -11,7 +11,7 @@
             <gradient
                 android:type="linear"
                 android:angle="270"
-                android:startColor="#ff0ac8ff" android:endColor="#ff5863ed"
+                android:startColor="#ff33b5e5" android:endColor="#ff00ddff"
                 android:centerX="0.4"
                 android:gradientRadius="45"/>
         </shape>
