@@ -8,6 +8,7 @@
                 android:startColor="#ff201e2c"
                 android:endColor="#ff212e3d"
                 android:angle="45"/>
+            <corners android:radius="@*android:dimen/config_dialogCornerRadius" />
         </shape>
     </item>
     <item>
