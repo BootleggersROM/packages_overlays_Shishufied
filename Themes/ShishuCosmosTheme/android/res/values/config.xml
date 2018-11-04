@@ -5,5 +5,4 @@
     <bool name="config_notificationTinting_override">true</bool>
     <bool name="config_allowNotificationIconTextTinting">false</bool>
     <bool name="config_allowNotificationAppNameTextTinting">true</bool>
-    <bool name="config_buttonTextAllCaps">true</bool>
 </resources>
