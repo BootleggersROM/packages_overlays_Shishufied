@@ -2,7 +2,7 @@
 <resources>
 
     <!-- System Backgrounds -->	
-    <color name="background_material_dark">#ff161616</color>
+    <color name="background_material_dark">#ff0d0d0d</color>
     <color name="material_grey_900">@*android:color/background_material_dark</color>
     <color name="material_grey_850">@*android:color/background_material_dark</color>
     <color name="material_grey_800">@*android:color/background_material_dark</color>
