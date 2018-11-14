@@ -24,6 +24,11 @@
     <!-- Icon tint colors
     <color name="dashboard_icon_tint">@*android:color/background_material_dark</color> -->
 
+    <!-- QS tile styles -->
+    <color name="qs_tile_background_inactive">#ff353535</color>
+    <color name="qs_tile_icon_active">@*android:color/background_material_dark</color>
+    <color name="qs_tile_icon_inactive">#FFC3C3C3</color>
+
     <!--Circles-->
     <color name="homepage_accessibility_background">?android:attr/colorAccent</color>
     <color name="homepage_accounts_background">?android:attr/colorAccent</color>
