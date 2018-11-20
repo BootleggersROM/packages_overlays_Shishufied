@@ -16,7 +16,6 @@
     <item>
         <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
             android:src="@*android:drawable/bootleg_themebg"
-            android:tint="#5cffffff"
             android:tileMode="repeat" />
     </item>
 </layer-list>
