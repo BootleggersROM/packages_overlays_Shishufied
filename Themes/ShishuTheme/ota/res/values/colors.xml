@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Darker bg colors -->
+    <color name="theme_primary_dark">@*android:color/background_material_dark</color>
+    <color name="update_background">@*android:color/background_material_dark</color>
+
+    <!-- Lighter bg colors -->
+    <color name="theme_primary">#ff1c1c24</color>
+    <color name="card_update_bg">#ff1c1c24</color>
+    <color name="popup_bg">#ff1c1c24</color>
+    <!-- Text + Extra colors -->
+    <color name="app_title_text_color">@*android:color/theme_text1</color>
+    <color name="inverted">@*android:color/theme_text1</color>
+    <color name="header_title_text_color">@*android:color/theme_text1</color>
+
+    <!-- Comment this in case of not adding custom colors to header
+    <color name="header_title_text_color">#de000000</color>
+    <color name="header_title_version_text_color">@color/header_title_text_color</color>
+    <color name="header_title_update_info_text_color">@color/header_title_text_color</color> -->
+</resources>
