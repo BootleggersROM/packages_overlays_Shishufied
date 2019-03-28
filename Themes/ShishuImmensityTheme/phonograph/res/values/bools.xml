@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="theme_show_wallpaper">true</bool>
+    <bool name="theme_translucent">false</bool>
+</resources> 

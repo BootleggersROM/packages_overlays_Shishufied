@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="CallDetailsActionItemStyle">
+    <item name="android:foreground">@*android:color/black</item>
+    <item name="android:textColor">@*android:color/theme_text1</item>
+  </style>
+
+  <style name="DialerButtonTextStyle" parent="@*android:style/TextAppearance.Material.Widget.Button">
+    <item name="android:textColor">@*android:color/theme_text1</item>
+  </style>
+
+  <style name="AlertDialogTheme" parent="@*android:style/Theme.Material.Dialog">
+    <item name="android:colorBackground">@*android:color/black</item>
+    <item name="android:colorAccent">@*android:color/accent_device_default_light</item>
+  </style>
+</resources>
