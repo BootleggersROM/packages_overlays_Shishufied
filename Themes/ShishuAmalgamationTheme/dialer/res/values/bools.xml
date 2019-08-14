@@ -13,4 +13,5 @@
 
 <resources>
     <bool name="windowLightNavigationBar">false</bool>
+    <bool name="config_dialpadDigitsStaticColor">true</bool>
 </resources>

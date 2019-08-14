@@ -49,6 +49,7 @@
   <color name="contact_all_list_background_color">@*android:color/black</color>
 
   <color name="incall_dialpad_background">@*android:color/black</color>
+  <color name="incall_dialpad_digits_color">@*android:color/theme_text1</color>
 
   <color name="background_dialpad">@*android:color/black</color>
   <color name="dialpad_primary_text_color">@*android:color/theme_text1</color>
