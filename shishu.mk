@@ -32,6 +32,10 @@ PRODUCT_PACKAGES += \
     SunsetOrange \
     UiGradientsDIMIGO
 
+# Fonts required overlays packages
+PRODUCT_PACKAGES += \
+    FontRoboto
+
 # Theme-Required overlays packages
 #PRODUCT_PACKAGES += \
 #    DarkThemeAndroidOverlay \
