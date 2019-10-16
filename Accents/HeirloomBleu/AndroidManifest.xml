@@ -4,7 +4,7 @@
     platformBuildVersionCode="26"
     platformBuildVersionName="8.0.0">
 
-    <overlay android:priority="1" android:targetPackage="android" android:category="android.theme" />
+    <overlay android:priority="1" android:targetPackage="android" android:category="android.theme.customization.accent_color" />
 
     <application android:hasCode="false" android:icon="@mipmap/ic_launcher"
                  android:label="Heirloom Hydrangea Bleu" />
