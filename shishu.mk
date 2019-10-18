@@ -1,7 +1,6 @@
  ## Overlay makefile for building styles, themes and accents
 # Color required overlays packages
 PRODUCT_PACKAGES += \
-    ObfusBleu \
     NotImpPurple \
     Holillusion \
     MoveMint \
@@ -11,25 +10,17 @@ PRODUCT_PACKAGES += \
     Stock \
     ManiaAmber \
     DrownedAquaBlue \
-    BoucheRed \
     DreamyPurple \
-    GrapesPurple \
     SpookedPurple \
     MisleadingRed \
     FSRGrey \
     HeirloomBleu \
-    LunaBlue \
-    WarmthOrange \
-    NaturedGreen \
     ColdBleu \
-    DiffDayGreen \
     DuskPurple \
-    BurningRed \
     SimilarDawnRed \
     SpoofyGreen \
     NewHouseOrange \
     LimedGreen \
-    SunsetOrange \
     UiGradientsDIMIGO
 
 # Fonts required overlays packages
