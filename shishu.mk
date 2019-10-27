@@ -25,6 +25,12 @@ PRODUCT_PACKAGES += \
 
 # Fonts required overlays packages
 PRODUCT_PACKAGES += \
+    FontAdamCGinora \
+    FontBigNoodle \
+    FontBikoHanken \
+    FontMittelschrift \
+    FontPissel \
+    FontReemKufi \
     FontRoboto
 
 # Adding extras to our needs related to ThemePicker
