@@ -2,9 +2,6 @@
 <resources>
     <string-array name="themes">
         <item>default</item>
-        <item>aproblue</item>
-        <item>bubblegum</item>
-        <item>hollillusion</item>
-        <item>movemint</item>
+        <item>shishudreams</item>
     </string-array>
 </resources>

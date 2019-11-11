@@ -41,6 +41,12 @@ PRODUCT_PACKAGES += \
 	Shishufied
 
 # Theme-Required overlays packages
+PRODUCT_PACKAGES += \
+    ShishuThemeAndroidOverlay \
+    ShishuThemeSettingsOverlay \
+    ShishuThemeSystemUIOverlay \
+
+# Hot garbage
 #PRODUCT_PACKAGES += \
 #    DarkThemeAndroidOverlay \
 #    DarkThemeContactsOverlay \
@@ -58,15 +64,12 @@ PRODUCT_PACKAGES += \
 #    BlackThemePhonographOverlay \
 #    BlackThemeSettingsOverlay \
 #    BlackThemeSystemUIOverlay \
-#    ShishuThemeAndroidOverlay \
 #    ShishuThemeContactsOverlay \
 #    ShishuThemeDialerOverlay \
 #    ShishuThemeFilesOverlay \
 #    ShishuThemeGMSOverlay \
 #    ShishuThemeOTAOverlay \
 #    ShishuThemePhonographOverlay \
-#    ShishuThemeSettingsOverlay \
-#    ShishuThemeSystemUIOverlay \
 #    ShishuThemeWellbeingOverlay \
 #    ShishuNightsThemeAndroidOverlay \
 #    ShishuNightsThemeContactsOverlay \
