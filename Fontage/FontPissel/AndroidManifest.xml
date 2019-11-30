@@ -26,6 +26,6 @@
     <application android:label="Pixel Font" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="sans-serif,sans-serif-medium, googlesans-sys" />
+            android:value="sans-serif,sans-serif-medium, googlesans-sys,googlesans-medium" />
     </application>
 </manifest>
