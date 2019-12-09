@@ -25,6 +25,8 @@
     <color name="notification_legacy_background_color">@*android:color/primary_dark_device_default_dark</color>
     <!-- The background color of the notification shade -->
     <color name="notification_shade_background_color">@*android:color/primary_dark_device_default_dark</color>
+    <!-- The color of the material notification background when dimmed -->
+    <color name="notification_material_background_dimmed_color">@*android:color/primary_dark_device_default_dark</color>
 
     <!-- Qs customizer -->
     <!-- The color of the background in the top part of QSCustomizer -->
