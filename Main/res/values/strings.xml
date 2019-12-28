@@ -21,18 +21,18 @@
 	<!-- Default values for our main themes -->
 	<string name="theme_name_default">Default</string>
 	<string name="theme_title_default">@string/theme_name_default</string>
-	<string name="theme_overlay_color_default">android.auto_generated_rro_vendor__</string>
-	<string name="theme_overlay_font_default">android.auto_generated_rro_vendor__</string>
 
 	<string name="theme_name_shishudreams">Shishu Dreams</string>
 	<string name="theme_title_shishudreams">@string/theme_name_shishudreams</string>
 	<string name="theme_overlay_color_shishudreams">com.bootleggers.shishufied.accent.bubblegumpink</string>
 	<string name="theme_overlay_font_shishudreams">com.bootleggers.shishufied.font.mittelschrift</string>
-	<string name="theme_overlay_icon_android_shishudreams">com.bootleggers.shishufied.theme.shishu.android</string>
-	<string name="theme_overlay_icon_launcher_shishudreams">com.android.theme.icon_pack.circular.launcher</string> 
-	<string name="theme_overlay_icon_settings_shishudreams">com.bootleggers.shishufied.theme.shishu.settings</string>
-	<string name="theme_overlay_icon_sysui_shishudreams">com.bootleggers.shishufied.theme.shishu.systemui</string>
-	<!--<string name="theme_overlay_icon_themepicker_shishudreams">com.android.theme.icon_pack.circular.themepicker</string> -->
+	<string name="theme_overlay_style_android_shishudreams">com.bootleggers.shishufied.theme.shishu.android</string>
+	<string name="theme_overlay_style_settings_shishudreams">com.bootleggers.shishufied.theme.shishu.settings</string>
+	<string name="theme_overlay_style_sysui_shishudreams">com.bootleggers.shishufied.theme.shishu.systemui</string>
+	<string name="theme_overlay_icon_android_shishudreams">com.android.theme.icon_pack.filled.android</string>
+	<string name="theme_overlay_icon_launcher_shishudreams">com.android.theme.icon_pack.filled.launcher</string> 
+	<string name="theme_overlay_icon_settings_shishudreams">com.android.theme.icon_pack.filled.settings</string>
+	<string name="theme_overlay_icon_sysui_shishudreams">com.android.theme.icon_pack.filled.systemui</string>
 	<string name="theme_overlay_shape_shishudreams">com.android.theme.icon.circle</string>
 	<!-- Special Strings for wallpaper info and drawable -->
 	<item type="drawable" name="theme_wallpaper_shishudreams">@drawable/sd_wallpaper</item>

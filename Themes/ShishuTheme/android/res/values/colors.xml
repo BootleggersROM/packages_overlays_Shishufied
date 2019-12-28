@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <!-- Light values -->
     <color name="background_material_light">#f9f9fe</color>
-    <color name="primary_dark_material_light">#f3f3fd</color>
-    <color name="primary_material_light">@*android:color/background_material_light</color>
     <color name="background_floating_material_light">@*android:color/primary_dark_material_light</color>
+    <color name="primary_material_light">@*android:color/background_material_light</color>
     <!-- Workaround for light themed settings background -->
-    <color name="primary_material_settings_light">@*android:color/background_material_light</color>
-    <color name="primary_dark_device_default_settings_light">@*android:color/background_material_light</color>
+    <color name="primary_material_settings_light">@*android:color/primary_material_light</color>
+    <color name="primary_dark_material_light">#f3f3fd</color>
+    <color name="primary_dark_material_settings_light">@*android:color/primary_dark_material_light</color>
     <!-- The background color of a notification card. -->
     <color name="notification_material_background_color">@*android:color/background_material_light</color>
     <!-- Notification default icon color -->
@@ -14,4 +15,17 @@
     <!-- Nuke those dividers -->
     <color name="list_divider_color_light">#00000000</color>
     <color name="list_divider_opacity_device_default_light">#00000000</color>
+
+    <!-- Dark values -->
+    <color name="background_material_dark">#121217</color>
+    <color name="background_floating_material_dark">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_material_dark">@*android:color/background_material_dark</color>
+    <color name="primary_material_settings">@*android:color/primary_material_dark</color>
+    <color name="primary_dark_material_dark">#1a1a21</color>
+    <color name="primary_dark_material_settings">@*android:color/primary_dark_material_dark</color>
+    <!-- Notification default icon color -->
+    <color name="notification_default_color_dark">@*android:color/accent_device_default_dark</color>
+    <!-- Nuke those dividers -->
+    <color name="list_divider_color_dark">#00000000</color>
+    <color name="list_divider_opacity_device_default_dark">#00000000</color>
 </resources>
