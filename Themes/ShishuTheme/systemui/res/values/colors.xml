@@ -25,6 +25,8 @@
     <color name="notification_legacy_background_color">@*android:color/background_material_light</color>
     <!-- The background color of the notification shade -->
     <color name="notification_shade_background_color">@*android:color/background_floating_material_light</color>
+    <!-- The color of the material notification background when dimmed -->
+    <color name="notification_material_background_dimmed_color">@*android:color/background_material_light</color>
     <!-- The color of the gear shown behind a notification -->
     <color name="notification_gear_color">#6f121217</color>
     <!-- The "inside" of a notification, reached via longpress -->
