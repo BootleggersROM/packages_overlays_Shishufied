@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
 
 # Fonts required overlays packages
 PRODUCT_PACKAGES += \
-    FontAdamCGinora \
     FontBigNoodle \
     FontBikoHanken \
     FontMittelschrift \
