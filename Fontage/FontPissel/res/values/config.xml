@@ -24,5 +24,7 @@
     <string name="config_headlineFontFamily" translatable="false">googlesans-sys</string>
     <!-- Name of the font family used for system surfaces where the font should use medium weight -->
     <string name="config_headlineFontFamilyMedium" translatable="false">googlesans-medium</string>
+    <!-- Extra attributes of the font -->
+    <string name="config_headlineFontFeatureSettings">ss03</string>
 </resources>
 
