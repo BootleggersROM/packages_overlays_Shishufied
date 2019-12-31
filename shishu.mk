@@ -27,10 +27,27 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     FontBigNoodle \
     FontBikoHanken \
+    FontComicNeue \
+    FontExo2 \
+    FontFinlandica \
+    FontGoodlight \
+    FontGoogleSans \
+    FontGravity \
+    FontInter \
+    FontLeagueMonoNarrow \
+    FontLeonSans \
+    FontMescla \
     FontMittelschrift \
+    FontOdibee \
+    FontPanamericana \
     FontPissel \
+    FontPTSansMono \
     FontReemKufi \
-    FontRoboto
+    FontRoboto \
+    FontRouterGothicNarrow \
+    FontRoutedGothicRobotoCondensed \
+    FontSofiaSans \
+    FontSofiaSansSemiCondensed
 
 # Adding extras to our needs related to ThemePicker
 DEVICE_PACKAGE_OVERLAYS += \
