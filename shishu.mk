@@ -150,13 +150,13 @@ PRODUCT_PACKAGES += \
 #    ShishuProtostarThemeSettingsOverlay \
 #    ShishuProtostarThemeSystemUIOverlay \
 #    ShishuProtostarThemeWellbeingOverlay
-#
-## Wallpaper overlay selection for widescreen devices.
-#ifeq ($(BOOTLEGGERS_NOTCHED),true)
-#    DEVICE_PACKAGE_OVERLAYS += \
-#        packages/overlays/Shishufied/Themes/overlay/widebois
-#endif
-#
+
+# Wallpaper overlay selection for widescreen devices.
+ifeq ($(BOOTLEGGERS_NOTCHED),true)
+    DEVICE_PACKAGE_OVERLAYS += \
+        packages/overlays/Shishufied/Themes/overlay/widebois
+endif
+
 ##Quicksettings Tiles icons
 #PRODUCT_PACKAGES += \
 #	QSTileSquircle \
