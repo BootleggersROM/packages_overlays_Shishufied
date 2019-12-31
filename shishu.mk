@@ -58,9 +58,12 @@ PRODUCT_PACKAGES += \
 
 # Theme-Required overlays packages
 PRODUCT_PACKAGES += \
+    SolarizedThemeAndroidOverlay \
+    SolarizedThemeSettingsOverlay \
+    SolarizedThemeSystemUIOverlay \
     ShishuThemeAndroidOverlay \
     ShishuThemeSettingsOverlay \
-    ShishuThemeSystemUIOverlay \
+    ShishuThemeSystemUIOverlay
 
 # Hot garbage
 #PRODUCT_PACKAGES += \

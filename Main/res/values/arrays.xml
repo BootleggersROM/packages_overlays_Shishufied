@@ -2,6 +2,7 @@
 <resources>
     <string-array name="themes">
         <item>default</item>
+        <item>solarized</item>
         <item>shishudreams</item>
     </string-array>
 </resources>

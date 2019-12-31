@@ -22,6 +22,26 @@
 	<string name="theme_name_default">Default</string>
 	<string name="theme_title_default">@string/theme_name_default</string>
 
+	<!-- Solarized Theme -->
+	<string name="theme_name_solarized">Solarized</string>
+	<string name="theme_title_solarized">@string/theme_name_solarized</string>
+	<string name="theme_overlay_color_solarized">com.android.theme.color.black</string>
+	<string name="theme_overlay_font_solarized">com.bootleggers.shishufied.font.leaguemononarrow</string>
+	<string name="theme_overlay_style_android_solarized">com.bootleggers.shishufied.theme.solarized.android</string>
+	<string name="theme_overlay_style_settings_solarized">com.bootleggers.shishufied.theme.solarized.settings</string>
+	<string name="theme_overlay_style_sysui_solarized">com.bootleggers.shishufied.theme.solarized.systemui</string>
+	<string name="theme_overlay_icon_android_solarized">com.android.theme.icon_pack.rounded.android</string>
+	<string name="theme_overlay_icon_launcher_solarized">com.android.theme.icon_pack.rounded.launcher</string> 
+	<string name="theme_overlay_icon_settings_solarized">com.android.theme.icon_pack.rounded.settings</string>
+	<string name="theme_overlay_icon_sysui_solarized">com.android.theme.icon_pack.rounded.systemui</string>
+	<string name="theme_overlay_shape_solarized">com.android.theme.icon.circle</string>
+	<!-- Special Strings for wallpaper info and drawable -->
+	<item type="drawable" name="theme_wallpaper_solarized">@drawable/wallpaper_solarized</item>
+	<item type="drawable" name="theme_wallpaper_thumbnail_solarized">@drawable/wallpaper_solarized</item>
+	<string name="theme_wallpaper_title_solarized">Solarized wallpaper</string>
+	<string name="theme_wallpaper_attribution_solarized">Made by ElDainosor</string>
+
+  <!-- Shishu Dreams -->
 	<string name="theme_name_shishudreams">Shishu Dreams</string>
 	<string name="theme_title_shishudreams">@string/theme_name_shishudreams</string>
 	<string name="theme_overlay_color_shishudreams">com.bootleggers.shishufied.accent.bubblegumpink</string>
