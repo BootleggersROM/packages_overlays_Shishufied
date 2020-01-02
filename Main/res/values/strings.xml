@@ -22,6 +22,44 @@
 	<string name="theme_name_default">Default</string>
 	<string name="theme_title_default">@string/theme_name_default</string>
 
+	<!-- AOSP Theme -->
+	<string name="theme_name_aosp">AOSP</string>
+	<string name="theme_title_aosp">@string/theme_name_aosp</string>
+	<string name="theme_overlay_color_aosp">com.bootleggers.shishufied.accent.stock</string>
+	<string name="theme_overlay_font_aosp">com.bootleggers.shishufied.font.roboto</string>
+	<string name="theme_overlay_style_android_aosp">com.bootleggers.shishufied.theme.aosp.android</string>
+	<string name="theme_overlay_style_settings_aosp">com.bootleggers.shishufied.theme.aosp.settings</string>
+	<string name="theme_overlay_style_sysui_aosp">com.bootleggers.shishufied.theme.aosp.systemui</string>
+	<string name="theme_overlay_icon_android_aosp">com.android.theme.icon_pack.rounded.android</string>
+	<string name="theme_overlay_icon_launcher_aosp">com.android.theme.icon_pack.rounded.launcher</string> 
+	<string name="theme_overlay_icon_settings_aosp">com.android.theme.icon_pack.rounded.settings</string>
+	<string name="theme_overlay_icon_sysui_aosp">com.android.theme.icon_pack.rounded.systemui</string>
+	<string name="theme_overlay_shape_aosp">com.android.theme.icon.square</string>
+	<!-- Special Strings for wallpaper info and drawable -->
+	<item type="drawable" name="theme_wallpaper_aosp">@drawable/wallpaper_aosp</item>
+	<item type="drawable" name="theme_wallpaper_thumbnail_aosp">@drawable/wallpaper_aosp</item>
+	<string name="theme_wallpaper_title_aosp">AOSP wallpaper</string>
+	<string name="theme_wallpaper_attribution_aosp">Made by The Android Open Source Project, with some branding.</string>
+
+	<!-- Pissel Theme -->
+	<string name="theme_name_pissel">Pixel</string>
+	<string name="theme_title_pissel">@string/theme_name_pissel</string>
+	<string name="theme_overlay_color_pissel">com.bootleggers.shishufied.accent.pisselblue</string>
+	<string name="theme_overlay_font_pissel">com.bootleggers.shishufied.font.pissel</string>
+	<string name="theme_overlay_style_android_pissel">com.bootleggers.shishufied.theme.pissel.android</string>
+	<string name="theme_overlay_style_settings_pissel">com.bootleggers.shishufied.theme.pissel.settings</string>
+	<string name="theme_overlay_style_sysui_pissel">com.bootleggers.shishufied.theme.pissel.systemui</string>
+	<string name="theme_overlay_icon_android_pissel">com.android.theme.icon_pack.rounded.android</string>
+	<string name="theme_overlay_icon_launcher_pissel">com.android.theme.icon_pack.rounded.launcher</string> 
+	<string name="theme_overlay_icon_settings_pissel">com.android.theme.icon_pack.rounded.settings</string>
+	<string name="theme_overlay_icon_sysui_pissel">com.android.theme.icon_pack.rounded.systemui</string>
+	<string name="theme_overlay_shape_pissel">com.android.theme.icon.circle</string>
+	<!-- Special Strings for wallpaper info and drawable -->
+	<item type="drawable" name="theme_wallpaper_pissel">@drawable/wallpaper_pissel</item>
+	<item type="drawable" name="theme_wallpaper_thumbnail_pissel">@drawable/wallpaper_pissel</item>
+	<string name="theme_wallpaper_title_pissel">Pixel wallpaper</string>
+	<string name="theme_wallpaper_attribution_pissel">Made by Google, with some branding.</string>
+
 	<!-- Solarized Theme -->
 	<string name="theme_name_solarized">Solarized</string>
 	<string name="theme_title_solarized">@string/theme_name_solarized</string>

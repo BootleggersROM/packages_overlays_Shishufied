@@ -58,6 +58,12 @@ PRODUCT_PACKAGES += \
 
 # Theme-Required overlays packages
 PRODUCT_PACKAGES += \
+    AOSPThemeAndroidOverlay \
+    AOSPThemeSettingsOverlay \
+    AOSPThemeSystemUIOverlay \
+    PisselThemeAndroidOverlay \
+    PisselThemeSettingsOverlay \
+    PisselThemeSystemUIOverlay \
     SolarizedThemeAndroidOverlay \
     SolarizedThemeSettingsOverlay \
     SolarizedThemeSystemUIOverlay \
