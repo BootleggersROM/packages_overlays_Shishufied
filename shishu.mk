@@ -17,6 +17,7 @@ PRODUCT_PACKAGES += \
     HeirloomBleu \
     ColdBleu \
     DuskPurple \
+    PisselBlue \
     SimilarDawnRed \
     SpoofyGreen \
     NewHouseOrange \
