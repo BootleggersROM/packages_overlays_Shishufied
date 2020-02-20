@@ -164,28 +164,28 @@ ifeq ($(BOOTLEGGERS_NOTCHED),true)
         packages/overlays/Shishufied/Themes/overlay/widebois
 endif
 
-##Quicksettings Tiles icons
-#PRODUCT_PACKAGES += \
-#	QSTileSquircle \
-#	QSTileTearDrop \
-#	QSTileCircleDual \
-#	QSTileCircleGradient \
-#	QSTileInkdrop \
-#	QSTileIconAccent \
-#	QSTileShishuNights \
-#	QSTileMemedoSquare \
-#	QSTileWavey \
-#	QSTileAttemptMountain \
-#	QSTileDottedCircle \
-#	QSTileNinja \
-#	QSTilePokesign \
-#	QSTileShishuInk \
-#    QSTileCookie \
-#    QSTileCosmos \
-#    QSTileDividedCircle \
-#    QSTileNeonLight \
-#    QSTileOxygen \
-#    QSTileTriangles
+#Quicksettings Tiles icons
+PRODUCT_PACKAGES += \
+	QSTileSquircle \
+	QSTileTearDrop \
+	QSTileCircleDual \
+	QSTileCircleGradient \
+	QSTileInkdrop \
+	QSTileIconAccent \
+	QSTileShishuNights \
+	QSTileMemedoSquare \
+	QSTileWavey \
+	QSTileAttemptMountain \
+	QSTileDottedCircle \
+	QSTileNinja \
+	QSTilePokesign \
+	QSTileShishuInk \
+    QSTileCookie \
+    QSTileCosmos \
+    QSTileDividedCircle \
+    QSTileNeonLight \
+    QSTileOxygen \
+    QSTileTriangles
 ## DO NOT MERGE - 
 #PRODUCT_PACKAGES += \
 #    ShishuTestOv \
