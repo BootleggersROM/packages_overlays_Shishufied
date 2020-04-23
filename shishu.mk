@@ -55,7 +55,8 @@ DEVICE_PACKAGE_OVERLAYS += \
     packages/overlays/Shishufied/Overlays
 
 PRODUCT_PACKAGES += \
-	Shishufied
+	Shishufied \
+    SimIcons
 
 # Theme-Required overlays packages
 PRODUCT_PACKAGES += \
