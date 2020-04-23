@@ -164,6 +164,12 @@ ifeq ($(BOOTLEGGERS_NOTCHED),true)
         packages/overlays/Shishufied/Themes/overlay/widebois
 endif
 
+# Overlays for Shishufied devices
+ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
+    DEVICE_PACKAGE_OVERLAYS += \
+    packages/overlays/Shishufied/ShishufiedOverlays
+endif
+
 ##Quicksettings Tiles icons
 #PRODUCT_PACKAGES += \
 #	QSTileSquircle \
