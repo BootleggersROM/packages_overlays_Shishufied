@@ -54,6 +54,10 @@ PRODUCT_PACKAGES += \
 DEVICE_PACKAGE_OVERLAYS += \
     packages/overlays/Shishufied/Overlays
 
+# Let's ensure this gets merged on the final product files instead of RRO overlays
+PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
+    packages/overlays/Shishufied/Overlays
+
 PRODUCT_PACKAGES += \
 	Shishufied \
     SimIcons
