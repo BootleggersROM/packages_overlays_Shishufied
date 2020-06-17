@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="homepage_card_dismissal_background">@*android:color/background_floating_material_dark</color>
+    <color name="contextual_card_background">@*android:color/background_floating_material_dark</color>
+    <color name="contextual_card_dismissal_background">@*android:color/background_material_dark</color>
+    <color name="search_bar_background">@*android:color/background_floating_material_dark</color>
+    <color name="switchbar_switch_thumb_tint">@*android:color/background_material_dark</color>
+
+    <!-- Dialog background color -->
+    <color name="dialog_background">@*android:color/background_floating_material_dark</color>
+    <color name="notification_importance_selection_bg">@*android:color/background_floating_material_dark</color>
+
+</resources>
