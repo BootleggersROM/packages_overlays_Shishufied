@@ -63,6 +63,9 @@ PRODUCT_PACKAGES += \
     AOSPThemeAndroidOverlay \
     AOSPThemeSettingsOverlay \
     AOSPThemeSystemUIOverlay \
+    BlackThemeAndroidOverlay \
+    BlackThemeSettingsOverlay \
+    BlackThemeSystemUIOverlay \
     PisselThemeAndroidOverlay \
     PisselThemeSettingsOverlay \
     PisselThemeSystemUIOverlay \
