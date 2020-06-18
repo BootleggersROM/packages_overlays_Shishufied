@@ -74,8 +74,10 @@ PRODUCT_PACKAGES += \
     SolarizedThemeSettingsOverlay \
     SolarizedThemeSystemUIOverlay \
     ShishuThemeAndroidOverlay \
+    ShishuThemeGMSOverlay \
     ShishuThemeSettingsOverlay \
-    ShishuThemeSystemUIOverlay
+    ShishuThemeSystemUIOverlay \
+    ShishuThemeWellbeingOverlay
 
 # Hot garbage
 #PRODUCT_PACKAGES += \
