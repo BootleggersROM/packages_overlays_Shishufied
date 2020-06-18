@@ -89,6 +89,11 @@ PRODUCT_PACKAGES += \
     SolarizedThemeAndroidOverlay \
     SolarizedThemeSettingsOverlay \
     SolarizedThemeSystemUIOverlay \
+    ShishuIllusionsThemeAndroidOverlay \
+    ShishuIllusionsThemeGMSOverlay \
+    ShishuIllusionsThemeSettingsOverlay \
+    ShishuIllusionsThemeSystemUIOverlay \
+    ShishuIllusionsThemeWellbeingUIOverlay \
     ShishuThemeAndroidOverlay \
     ShishuThemeSettingsOverlay \
     ShishuThemeSystemUIOverlay \
