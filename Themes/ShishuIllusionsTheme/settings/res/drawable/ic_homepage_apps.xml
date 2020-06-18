@@ -50,10 +50,10 @@
     </item>
 
     <item
-        android:width="28dp"
-        android:height="28dp"
-        android:start="6dp"
-        android:top="6dp">
+        android:width="24dp"
+        android:height="24dp"
+        android:start="8dp"
+        android:top="8dp">
         <vector xmlns:android="http://schemas.android.com/apk/res/android"
                 android:width="24dp"
                 android:height="24dp"
@@ -66,7 +66,7 @@
         2zm4-8c0 1.1 .9 2 2 2s2-.9 2-2-.9-2-2-2-2 .9-2 2zm-4 2c1.1 0 2-.9
         2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6 6c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2
         2zm0 6c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2z"
-                android:fillColor="@*android:color/background_material_dark"/>
+                android:fillColor="@*android:color/background_material_light"/>
         </vector>
     </item>
 </layer-list>
