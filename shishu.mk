@@ -162,12 +162,6 @@ PRODUCT_PACKAGES += \
 #    ShishuProtostarThemeSystemUIOverlay \
 #    ShishuProtostarThemeWellbeingOverlay
 
-# Wallpaper overlay selection for widescreen devices.
-ifeq ($(BOOTLEGGERS_NOTCHED),true)
-    DEVICE_PACKAGE_OVERLAYS += \
-        packages/overlays/Shishufied/Themes/overlay/widebois
-endif
-
 # Overlays for Shishufied devices
 ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
     DEVICE_PACKAGE_OVERLAYS += \
