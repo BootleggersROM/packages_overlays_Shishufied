@@ -18,36 +18,34 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item>
-        <vector xmlns:api24="http://schemas.android.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android"
-            android:viewportWidth="48"
-            android:viewportHeight="48"
-            android:width="40dip"
-            android:height="40dip">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+                android:width="40dp"
+                android:height="40dp"
+                android:viewportWidth="110"
+                android:viewportHeight="110">
             <path
-                android:pathData="M46.587999 24A22.587999 22.587999 0 0 1 24 46.587999 22.587999 22.587999 0 0 1 1.4120007 24 22.587999 22.587999 0 0 1 24 1.4120007 22.587999 22.587999 0 0 1 46.587999 24Z"
-                android:fillColor="@*android:color/accent_device_default_light"
-                android:fillAlpha="0.25"/>
-            <path
-                android:pathData="M46.368 24A22.368 22.368 0 0 1 24 46.368 22.368 22.368 0 0 1 1.632 24 22.368 22.368 0 0 1 24 1.632 22.368 22.368 0 0 1 46.368 24Z"
+                android:pathData="@*android:string/config_icon_mask"
+                android:fillColor="?android:attr/colorAccent"
+                android:fillAlpha="0.25"
                 android:strokeWidth="3"
                 android:strokeMiterLimit="10"
-                android:strokeColor="@*android:color/accent_device_default_light" />
+                android:strokeColor="?android:attr/colorAccent" />
         </vector>
     </item>
 
     <item
-        android:width="28dp"
-        android:height="28dp"
-        android:start="6dp"
-        android:top="6dp">
+        android:width="24dp"
+        android:height="24dp"
+        android:start="8dp"
+        android:top="8dp">
         <vector xmlns:android="http://schemas.android.com/apk/res/android"
                 android:width="24.0dp"
                 android:height="24.0dp"
                 android:viewportWidth="24.0"
                 android:viewportHeight="24.0">
             <path
-                android:fillColor="@*android:color/accent_device_default_light"
-                android:pathData="M23.66,8.11c0.39,-0.48 0.29,-1.19 -0.22,-1.54C21.67,5.36 17.55,3 12,3 6.44,3 2.33,5.36 0.56,6.57c-0.51,0.35 -0.61,1.06 -0.23,1.54L11.16,21.6c0.42,0.53 1.23,0.53 1.66,0L23.66,8.11z"/>
+                android:fillColor="?android:attr/colorAccent"
+                android:pathData="M1,9l2,2c4.97,-4.97 13.03,-4.97 18,0l2,-2C16.93,2.93 7.08,2.93 1,9zM9,17l3,3l3,-3C13.35,15.34 10.66,15.34 9,17zM5,13l2,2c2.76,-2.76 7.24,-2.76 10,0l2,-2C15.14,9.14 8.87,9.14 5,13z"/>
         </vector>
     </item>
 </layer-list>
