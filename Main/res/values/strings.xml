@@ -98,6 +98,25 @@
 	<string name="theme_wallpaper_title_shishudreams">Shishu Dreams wallpaper</string>
 	<string name="theme_wallpaper_attribution_shishudreams">Made by Exodus </string>
 
+  <!-- Shishu Nights -->
+	<string name="theme_name_shishunights">Shishu Nights</string>
+	<string name="theme_title_shishunights">@string/theme_name_shishunights</string>
+	<string name="theme_overlay_color_shishunights">com.bootleggers.shishufied.accent.holillusion</string>
+	<string name="theme_overlay_font_shishunights">com.bootleggers.shishufied.font.pissel</string>
+	<string name="theme_overlay_style_android_shishunights">com.bootleggers.shishufied.theme.shishunights.android</string>
+	<string name="theme_overlay_style_settings_shishunights">com.bootleggers.shishufied.theme.shishunights.settings</string>
+	<string name="theme_overlay_style_sysui_shishunights">com.bootleggers.shishufied.theme.shishunights.systemui</string>
+	<string name="theme_overlay_icon_android_shishunights">com.android.theme.icon_pack.rounded.android</string>
+	<string name="theme_overlay_icon_launcher_shishunights">com.android.theme.icon_pack.rounded.launcher</string> 
+	<string name="theme_overlay_icon_settings_shishunights">com.android.theme.icon_pack.rounded.settings</string>
+	<string name="theme_overlay_icon_sysui_shishunights">com.android.theme.icon_pack.rounded.systemui</string>
+	<string name="theme_overlay_shape_shishunights">com.android.theme.icon.circle</string>
+	<!-- Special Strings for wallpaper info and drawable -->
+	<item type="drawable" name="theme_wallpaper_shishunights">@drawable/sd_wallpaper</item>
+	<item type="drawable" name="theme_wallpaper_thumbnail_shishunights">@drawable/sd_wallpaper</item>
+	<string name="theme_wallpaper_title_shishunights">Shishu Dreams wallpaper</string>
+	<string name="theme_wallpaper_attribution_shishunights">Made by Exodus </string>
+
   <!-- Shishu Illusions -->
 	<string name="theme_name_shishuillusions">Shishu Illusions</string>
 	<string name="theme_title_shishuillusions">@string/theme_name_shishuillusions</string>
