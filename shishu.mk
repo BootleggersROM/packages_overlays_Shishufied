@@ -85,7 +85,12 @@ PRODUCT_PACKAGES += \
     ShishuThemeGMSOverlay \
     ShishuThemeSettingsOverlay \
     ShishuThemeSystemUIOverlay \
-    ShishuThemeWellbeingOverlay
+    ShishuThemeWellbeingOverlay \
+    ShishuNightsThemeAndroidOverlay \
+    ShishuNightsThemeGMSOverlay \
+    ShishuNightsThemeSettingsOverlay \
+    ShishuNightsThemeSystemUIOverlay \
+    ShishuNightsThemeWellbeingOverlay
 
 # Hot garbage
 #PRODUCT_PACKAGES += \
@@ -113,12 +118,7 @@ PRODUCT_PACKAGES += \
 #    ShishuThemePhonographOverlay \
 #    ShishuThemeWellbeingOverlay \
 #    ShishuNightsThemeAndroidOverlay \
-#    ShishuNightsThemeContactsOverlay \
-#    ShishuNightsThemeDialerOverlay \
-#    ShishuNightsThemeFilesOverlay \
 #    ShishuNightsThemeGMSOverlay \
-#    ShishuNightsThemeOTAOverlay \
-#    ShishuNightsThemePhonographOverlay \
 #    ShishuNightsThemeSettingsOverlay \
 #    ShishuNightsThemeSystemUIOverlay \
 #    ShishuNightsThemeWellbeingOverlay \
