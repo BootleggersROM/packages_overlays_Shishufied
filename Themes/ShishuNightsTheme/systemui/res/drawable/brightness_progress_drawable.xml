@@ -14,30 +14,22 @@
      limitations under the License.
 -->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@*android:id/background"
-        android:gravity="center_vertical|fill_horizontal">
-        <shape android:shape="rectangle">
-            <size android:height="2.8dp" />
-            <corners android:radius="50.0dip" />
+    <item android:id="@android:id/background"
+          android:gravity="center_vertical|fill_horizontal">
+        <shape android:shape="rectangle"
+               android:tint="@*android:color/accent_device_default_light">
+            <size android:height="3dp" />
             <solid android:color="#20dddddd" />
+            <corners android:radius="3dp" />
         </shape>
     </item>
-    <item android:id="@*android:id/secondaryProgress"
-        android:gravity="center_vertical|fill_horizontal">
+    <item android:id="@android:id/progress"
+          android:gravity="center_vertical|fill_horizontal">
         <scale android:scaleWidth="100%">
             <shape android:shape="rectangle">
-                <size android:height="2.8dp" />
-                <solid android:color="#00000000" />
-            </shape>
-        </scale>
-    </item>
-    <item android:id="@*android:id/progress"
-        android:gravity="center_vertical|fill_horizontal">
-        <scale android:scaleWidth="100%">
-            <shape android:shape="rectangle">
-                <corners android:radius="50.0dip" />
-                <size android:height="2.8dp" />
-                <gradient android:startColor="@*android:color/bootleg_accent_gradient_end_color"  android:endColor="@*android:color/accent_device_default_light" />
+                <size android:height="3dp" />
+                <gradient android:startColor="@*android:color/bootleg_accent_gradient_end_color"  android:endColor="@*android:color/accent_device_default_light" android:angle="0" />
+                <corners android:radius="3dp" />
             </shape>
         </scale>
     </item>
