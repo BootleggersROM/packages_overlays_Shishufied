@@ -136,4 +136,23 @@
 	<string name="theme_wallpaper_title_shishuillusions">Shishu Dreams wallpaper</string>
 	<string name="theme_wallpaper_attribution_shishuillusions">Made by Exodus </string>
 
+  <!-- Shishu Amalgamation -->
+	<string name="theme_name_shishuamalgamation">Shishu Amalgamation</string>
+	<string name="theme_title_shishuamalgamation">@string/theme_name_shishuamalgamation</string>
+	<string name="theme_overlay_color_shishuamalgamation">com.bootleggers.shishufied.accent.dimigouig</string>
+	<string name="theme_overlay_font_shishuamalgamation">com.bootleggers.shishufied.font.reemkufi</string>
+	<string name="theme_overlay_style_android_shishuamalgamation">com.bootleggers.shishufied.theme.shishuamalgamation.android</string>
+	<string name="theme_overlay_style_settings_shishuamalgamation">com.bootleggers.shishufied.theme.shishuamalgamation.settings</string>
+	<string name="theme_overlay_style_sysui_shishuamalgamation">com.bootleggers.shishufied.theme.shishuamalgamation.systemui</string>
+	<string name="theme_overlay_icon_android_shishuamalgamation">com.android.theme.icon_pack.rounded.android</string>
+	<string name="theme_overlay_icon_launcher_shishuamalgamation">com.android.theme.icon_pack.rounded.launcher</string> 
+	<string name="theme_overlay_icon_settings_shishuamalgamation">com.android.theme.icon_pack.rounded.settings</string>
+	<string name="theme_overlay_icon_sysui_shishuamalgamation">com.android.theme.icon_pack.rounded.systemui</string>
+	<string name="theme_overlay_shape_shishuamalgamation">com.android.theme.icon.teardrop</string>
+	<!-- Special Strings for wallpaper info and drawable -->
+	<item type="drawable" name="theme_wallpaper_shishuamalgamation">@drawable/sd_wallpaper</item>
+	<item type="drawable" name="theme_wallpaper_thumbnail_shishuamalgamation">@drawable/sd_wallpaper</item>
+	<string name="theme_wallpaper_title_shishuamalgamation">Shishu Dreams wallpaper</string>
+	<string name="theme_wallpaper_attribution_shishuamalgamation">Made by Exodus </string>
+
 </resources>
