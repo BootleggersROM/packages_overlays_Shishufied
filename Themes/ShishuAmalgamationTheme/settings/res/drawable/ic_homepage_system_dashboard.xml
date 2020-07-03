@@ -18,21 +18,37 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item>
-        <shape android:shape="oval">
-            <gradient
-                android:type="linear"
-                android:startColor="@*android:color/accent_device_default_light"
-                android:endColor="@*android:color/bootleg_accent_gradient_end_color"
-                android:angle="270"/>
-            <size
-                android:width="40dip"
-                android:height="40dip" />
-        </shape>
+        <vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+                android:width="36dp"
+                android:height="36dp"
+                android:viewportWidth="100"
+                android:viewportHeight="100">
+            <path
+                android:fillType="evenOdd"
+                android:pathData="@*android:string/config_icon_mask">
+                <aapt:attr name="android:fillColor">
+                    <gradient
+                        android:endX="100"
+                        android:endY="100"
+                        android:startX="0"
+                        android:startY="0"
+                        android:angle="270"
+                        android:type="linear">
+                        <item
+                            android:color="@*android:color/accent_device_default"
+                            android:offset="0.0" />
+                        <item
+                            android:color="@*android:color/bootleg_accent_gradient_end_color"
+                            android:offset="1.0" />
+                    </gradient>
+                </aapt:attr>
+            </path>
+        </vector>
     </item>
 
     <item
-        android:width="28dp"
-        android:height="28dp"
+        android:width="24dp"
+        android:height="24dp"
         android:start="6dp"
         android:top="6dp">
         <vector xmlns:android="http://schemas.android.com/apk/res/android"
@@ -41,13 +57,13 @@
                 android:viewportWidth="24.0"
                 android:viewportHeight="24.0">
             <path
-                android:fillColor="@*android:color/background_material_dark"
+                android:fillColor="@*android:color/background_device_default_light"
                 android:pathData="M11,7h2v2h-2z"/>
             <path
-                android:fillColor="@*android:color/background_material_dark"
+                android:fillColor="@*android:color/background_device_default_light"
                 android:pathData="M11,11h2v6h-2z"/>
             <path
-                android:fillColor="@*android:color/background_material_dark"
+                android:fillColor="@*android:color/background_device_default_light"
                 android:pathData="M12,2C6.48,2 2,6.48 2,12c0,5.52 4.48,10 10,10s10,-4.48 10,-10C22,6.48 17.52,2 12,2zM12,20c-4.41,0 -8,-3.59 -8,-8c0,-4.41 3.59,-8 8,-8s8,3.59 8,8C20,16.41 16.41,20 12,20z"/>
         </vector>
     </item>
