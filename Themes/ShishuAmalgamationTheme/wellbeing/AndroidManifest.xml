@@ -2,7 +2,7 @@
     package="com.google.android.apps.wellbeing.theme.shishuamalgamation"
     android:versionCode="1"
     android:versionName="1.0">
-    <overlay android:targetPackage="com.google.android.apps.wellbeing" android:priority="1"/>
+    <overlay android:targetPackage="com.google.android.apps.wellbeing" android:category="android.theme.customization.style.wellbeing" android:priority="1"/>
 
-    <application android:label="@string/system_overlay_shishuamalgamation" android:hasCode="false" android:icon="@mipmap/ic_launcher"/>
+    <application android:label="@string/system_overlay_shishu" android:hasCode="false" android:icon="@mipmap/ic_launcher"/>
 </manifest>

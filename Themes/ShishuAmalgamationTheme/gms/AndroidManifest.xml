@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.gms.theme.shishuamalgamation"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <overlay android:targetPackage="com.google.android.gms" android:category="android.theme.customization.style.gms" android:priority="1"/>
+
+    <application android:label="@string/system_overlay_shishu" android:hasCode="false" android:icon="@mipmap/ic_launcher"/>
+</manifest>
