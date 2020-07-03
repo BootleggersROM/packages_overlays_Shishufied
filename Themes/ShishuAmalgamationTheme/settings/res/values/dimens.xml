@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Dashboard image tile size -->
-	<dimen name="dashboard_tile_image_size">40dip</dimen>
-	<!-- Dashboard image foreground size -->
-	<dimen name="dashboard_tile_foreground_image_size">28dp</dimen>
-	<!-- Inset dimens, just in case -->
-	<dimen name="dashboard_tile_foreground_image_inset">6dp</dimen>
-</resources>
