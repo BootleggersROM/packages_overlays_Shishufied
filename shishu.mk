@@ -90,7 +90,12 @@ PRODUCT_PACKAGES += \
     ShishuNightsThemeGMSOverlay \
     ShishuNightsThemeSettingsOverlay \
     ShishuNightsThemeSystemUIOverlay \
-    ShishuNightsThemeWellbeingOverlay
+    ShishuNightsThemeWellbeingOverlay \
+    ShishuAmalgamationThemeAndroidOverlay \
+    ShishuAmalgamationThemeGMSOverlay \
+    ShishuAmalgamationThemeSettingsOverlay \
+    ShishuAmalgamationThemeSystemUIOverlay \
+    ShishuAmalgamationThemeWellbeingOverlay
 
 # Hot garbage
 #PRODUCT_PACKAGES += \

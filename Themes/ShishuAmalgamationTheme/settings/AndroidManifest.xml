@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.settings.theme.shishuamalgamation"
+    package="com.bootleggers.shishufied.theme.shishuamalgamation.settings"
     android:versionCode="1"
     android:versionName="1.0">
-    <overlay android:targetPackage="com.android.settings" android:priority="1"/>
+    <overlay android:targetPackage="com.android.settings" android:category="android.theme.customization.style.settings" android:priority="1"/>
 
-    <application android:label="@string/settings_overlay_shishuamalgamation" android:hasCode="false" android:icon="@mipmap/ic_launcher"/>
+    <application android:label="Shishu Amalgamation" android:hasCode="false" android:icon="@mipmap/ic_launcher"/>
 </manifest>
