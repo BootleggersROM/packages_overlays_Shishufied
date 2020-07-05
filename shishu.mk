@@ -81,6 +81,11 @@ PRODUCT_PACKAGES += \
     ShishuIllusionsThemeSettingsOverlay \
     ShishuIllusionsThemeSystemUIOverlay \
     ShishuIllusionsThemeWellbeingUIOverlay \
+    ShishuImmensityThemeAndroidOverlay \
+    ShishuImmensityThemeGMSOverlay \
+    ShishuImmensityThemeSettingsOverlay \
+    ShishuImmensityThemeSystemUIOverlay \
+    ShishuImmensityThemeWellbeingOverlay \
     ShishuThemeAndroidOverlay \
     ShishuThemeGMSOverlay \
     ShishuThemeSettingsOverlay \
@@ -137,7 +142,6 @@ PRODUCT_PACKAGES += \
 #    ShishuIllusionsThemeSettingsOverlay \
 #    ShishuIllusionsThemeSystemUIOverlay \
 #    ShishuIllusionsThemeWellbeingOverlay \
-#    ShishuImmensityThemeAndroidOverlay \
 #    ShishuImmensityThemeContactsOverlay \
 #    ShishuImmensityThemeDialerOverlay \
 #    ShishuImmensityThemeFilesOverlay \

@@ -136,6 +136,25 @@
 	<string name="theme_wallpaper_title_shishuillusions">Shishu Dreams wallpaper</string>
 	<string name="theme_wallpaper_attribution_shishuillusions">Made by Exodus </string>
 
+  <!-- Shishu Immensity -->
+	<string name="theme_name_shishuimmensity">Shishu Immensity</string>
+	<string name="theme_title_shishuimmensity">@string/theme_name_shishuimmensity</string>
+	<string name="theme_overlay_color_shishuimmensity">com.bootleggers.shishufied.accent.spoofygreen</string>
+	<string name="theme_overlay_font_shishuimmensity">com.bootleggers.shishufied.font.exo2</string>
+	<string name="theme_overlay_style_android_shishuimmensity">com.bootleggers.shishufied.theme.shishuimmensity.android</string>
+	<string name="theme_overlay_style_settings_shishuimmensity">com.bootleggers.shishufied.theme.shishuimmensity.settings</string>
+	<string name="theme_overlay_style_sysui_shishuimmensity">com.bootleggers.shishufied.theme.shishuimmensity.systemui</string>
+	<string name="theme_overlay_icon_android_shishuimmensity">com.android.theme.icon_pack.rounded.android</string>
+	<string name="theme_overlay_icon_launcher_shishuimmensity">com.android.theme.icon_pack.rounded.launcher</string> 
+	<string name="theme_overlay_icon_settings_shishuimmensity">com.android.theme.icon_pack.rounded.settings</string>
+	<string name="theme_overlay_icon_sysui_shishuimmensity">com.android.theme.icon_pack.rounded.systemui</string>
+	<string name="theme_overlay_shape_shishuimmensity">com.android.theme.icon.circle</string>
+	<!-- Special Strings for wallpaper info and drawable -->
+	<item type="drawable" name="theme_wallpaper_shishuimmensity">@drawable/sd_wallpaper</item>
+	<item type="drawable" name="theme_wallpaper_thumbnail_shishuimmensity">@drawable/sd_wallpaper</item>
+	<string name="theme_wallpaper_title_shishuimmensity">Shishu Dreams wallpaper</string>
+	<string name="theme_wallpaper_attribution_shishuimmensity">Made by Exodus </string>
+
   <!-- Shishu Amalgamation -->
 	<string name="theme_name_shishuamalgamation">Shishu Amalgamation</string>
 	<string name="theme_title_shishuamalgamation">@string/theme_name_shishuamalgamation</string>
