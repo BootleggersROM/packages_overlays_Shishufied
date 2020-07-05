@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.system.theme.shishuimmensity"
+    package="com.bootleggers.shishufied.theme.shishuimmensity.android"
     android:versionCode="1"
     android:versionName="1.0">
-    <overlay android:targetPackage="android" android:priority="1"/>
+    <overlay android:targetPackage="android" android:category="android.theme.customization.style.android" android:priority="1"/>
 
-    <application android:label="@string/system_overlay_shishuimmensity" android:hasCode="false" android:icon="@mipmap/ic_launcher"/>
+    <application android:label="Shishu Immensity" android:hasCode="false" android:icon="@mipmap/ic_launcher"/>
 </manifest>
