@@ -22,7 +22,15 @@ PRODUCT_PACKAGES += \
     SpoofyGreen \
     NewHouseOrange \
     LimedGreen \
-    UiGradientsDIMIGO
+    UiGradientsDIMIGO \
+    CelestialPurple \
+    DematerializedOrange \
+    EmotionlessBlue \
+    FuzzyTideBlue \
+    GoldenGold \
+    MeltedBrainRed \
+    OuttaTouchCyan \
+    SakuraPink
 
 # Fonts required overlays packages
 PRODUCT_PACKAGES += \
