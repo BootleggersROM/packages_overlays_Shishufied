@@ -94,8 +94,8 @@
 	<string name="theme_overlay_shape_shishudreams">com.android.theme.icon.circle</string>
 	<!-- Special Strings for wallpaper info and drawable -->
 	<item type="drawable" name="theme_wallpaper_shishudreams">@drawable/sd_wallpaper</item>
-	<item type="drawable" name="theme_wallpaper_thumbnail_shishudreams">@drawable/sd_wallpaper</item>
+	<item type="drawable" name="theme_wallpaper_thumbnail_shishudreams">@drawable/wallpaper_shishu_dreams</item>
 	<string name="theme_wallpaper_title_shishudreams">Shishu Dreams wallpaper</string>
-	<string name="theme_wallpaper_attribution_shishudreams">Made by Exodus </string>
+	<string name="theme_wallpaper_attribution_shishudreams">Made by Snowan </string>
 
 </resources>
