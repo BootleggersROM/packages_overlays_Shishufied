@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- QS tiles Active, Inactive and Unavailable tint (Requires config_enable_qs_tile_tinting bool set to true) -->
+    <color name="qs_tiles_active_tint">@*android:color/accent_device_default</color>
+
+    <!-- QS tiles background Active, Disable, and Inactive tint (Requires config_enable_qs_tile_tinting bool set to true) -->
+    <color name="qs_tiles_background_active_tint">@*android:color/accent_device_default</color>
+
+</resources>
