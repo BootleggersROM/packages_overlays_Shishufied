@@ -26,28 +26,46 @@ PRODUCT_PACKAGES += \
 
 # Fonts required overlays packages
 PRODUCT_PACKAGES += \
+    FontAuthenticSans \
     FontBigNoodle \
     FontBikoHanken \
     FontComicNeue \
+    FontDecalotype \
     FontExo2 \
+    FontFantasqueSansMono \
+    FontFleuron \
     FontFinlandica \
     FontGoogleSans \
+    FontGothamono \
     FontGravity \
+    FontIgnazioText \
     FontInter \
+    FontJakartaPlus \
     FontLeagueMonoNarrow \
     FontLeonSans \
+    FontLumie \
     FontMescla \
+    FontMilimetre \
     FontMittelschrift \
+    FontNow \
     FontOdibee \
+    FontOpenSauce \
     FontPanamericana \
     FontPissel \
     FontPTSansMono \
+    FontQTVagaround \
     FontReemKufi \
     FontRoboto \
     FontRouterGothicNarrow \
     FontRoutedGothicRobotoCondensed \
+    FontScientifica \
     FontSofiaSans \
-    FontSofiaSansSemiCondensed
+    FontSofiaSansSemiCondensed \
+    FontUniversalisCond \
+    FontUniversalisReg \
+    FontVG5000 \
+    FontVladivostok \
+    FontVolte
 
 # Adding extras to our needs related to ThemePicker
 DEVICE_PACKAGE_OVERLAYS += \
