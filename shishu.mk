@@ -31,7 +31,6 @@ PRODUCT_PACKAGES += \
     FontComicNeue \
     FontExo2 \
     FontFinlandica \
-    FontGoodlight \
     FontGoogleSans \
     FontGravity \
     FontInter \
