@@ -95,6 +95,9 @@ PRODUCT_PACKAGES += \
     NexodusThemeAndroidOverlay \
     NexodusThemeSettingsOverlay \
     NexodusThemeSystemUIOverlay \
+    OneMonoThemeAndroidOverlay \
+    OneMonoThemeSettingsOverlay \
+    OneMonoThemeSystemUIOverlay \
     PisselThemeAndroidOverlay \
     PisselThemeSettingsOverlay \
     PisselThemeSystemUIOverlay \
