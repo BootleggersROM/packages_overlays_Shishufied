@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
     BubblegumPink \
     FrenchBleu \
     Stock \
+    NexodusCold \
     ManiaAmber \
     DrownedAquaBlue \
     DreamyPurple \
@@ -91,6 +92,9 @@ PRODUCT_PACKAGES += \
     BlackThemeAndroidOverlay \
     BlackThemeSettingsOverlay \
     BlackThemeSystemUIOverlay \
+    NexodusThemeAndroidOverlay \
+    NexodusThemeSettingsOverlay \
+    NexodusThemeSystemUIOverlay \
     PisselThemeAndroidOverlay \
     PisselThemeSettingsOverlay \
     PisselThemeSystemUIOverlay \
