@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DeviceDefault.Settings" parent="@*android:style/Theme.DeviceDefault.Light">
+        <!-- From Theme.Material.Light.LightStatusBar -->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorControlNormal">@*android:color/accent_device_default</item>
+    </style>
+</resources>

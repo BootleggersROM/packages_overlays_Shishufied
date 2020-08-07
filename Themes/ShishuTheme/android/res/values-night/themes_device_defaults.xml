@@ -8,6 +8,7 @@
         <item name="*android:colorPrimary">@*android:color/primary_material_dark</item>
         <item name="*android:colorPrimaryDark">@*android:color/primary_dark_material_dark</item>
         <item name="*android:colorBackground">@*android:color/background_material_dark</item>
+        <item name="android:colorControlNormal">@*android:color/accent_device_default</item>
     </style>
 
     <style name="Theme.DeviceDefault.Settings.DialogBase" parent="@*android:style/Theme.Material.BaseDialog">
