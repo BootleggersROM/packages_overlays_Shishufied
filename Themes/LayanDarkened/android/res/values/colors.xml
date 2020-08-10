@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Light values -->
+    <color name="background_material_light">#efefef</color>
+    <color name="background_floating_material_light">@*android:color/background_material_light</color>
+    <color name="primary_material_light">#e0e0e0</color>
+    <!-- Workaround for light themed settings background -->
+    <color name="primary_material_settings_light">@*android:color/primary_material_light</color>
+    <color name="primary_dark_material_light">@*android:color/primary_material_light</color>
+    <color name="primary_dark_material_settings_light">@*android:color/primary_material_light</color>
+    <!-- The background color of a notification card. -->
+    <color name="notification_material_background_color">@*android:color/background_material_light</color>
+
+    <!-- Dark values -->
+    <color name="background_material_dark">#191919</color>
+    <color name="background_floating_material_dark">@*android:color/background_material_dark</color>
+    <color name="primary_material_dark">#101010</color>
+    <color name="primary_material_settings">@*android:color/primary_material_dark</color>
+    <color name="primary_dark_material_dark">@*android:color/primary_material_dark</color>
+    <color name="primary_dark_material_settings">@*android:color/primary_material_dark</color>
+</resources>

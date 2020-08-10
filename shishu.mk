@@ -92,6 +92,9 @@ PRODUCT_PACKAGES += \
     BlackThemeAndroidOverlay \
     BlackThemeSettingsOverlay \
     BlackThemeSystemUIOverlay \
+    LayanDarkenedThemeAndroidOverlay \
+    LayanDarkenedThemeSettingsOverlay \
+    LayanDarkenedThemeSystemUIOverlay \
     NexodusThemeAndroidOverlay \
     NexodusThemeSettingsOverlay \
     NexodusThemeSystemUIOverlay \
