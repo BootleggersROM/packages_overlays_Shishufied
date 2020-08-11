@@ -17,7 +17,7 @@
     <item android:id="@android:id/background"
           android:gravity="center_vertical|fill_horizontal">
         <shape android:shape="rectangle"
-               android:tint="@*android:color/accent_device_default_light">
+               android:tint="@*android:color/accent_device_default">
             <size android:height="3dp" />
             <solid android:color="#20dddddd" />
             <corners android:radius="3dp" />
@@ -28,7 +28,7 @@
         <scale android:scaleWidth="100%">
             <shape android:shape="rectangle">
                 <size android:height="3dp" />
-                <gradient android:startColor="@*android:color/bootleg_accent_gradient_end_color"  android:endColor="@*android:color/accent_device_default_light" android:angle="0" />
+                <gradient android:startColor="@*android:color/bootleg_accent_gradient_end_color"  android:endColor="@*android:color/accent_device_default" android:angle="0" />
                 <corners android:radius="3dp" />
             </shape>
         </scale>

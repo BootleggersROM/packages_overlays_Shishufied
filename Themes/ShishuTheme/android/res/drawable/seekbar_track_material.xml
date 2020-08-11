@@ -29,7 +29,7 @@
                       android:drawable="@*android:color/transparent" />
                 <item>
                     <shape android:shape="rectangle"
-                           android:tint="@*android:color/accent_device_default_light">
+                           android:tint="@*android:color/accent_device_default">
                         <corners android:radius="@*android:dimen/progress_bar_corner_material" />
                         <size android:height="@*android:dimen/seekbar_track_progress_height_material" />
                         <solid android:color="@*android:color/white_disabled_material" />
@@ -48,7 +48,7 @@
                     <shape android:shape="rectangle">
                         <corners android:radius="@*android:dimen/progress_bar_corner_material" />
                         <size android:height="@*android:dimen/seekbar_track_progress_height_material" />
-                        <gradient android:startColor="@*android:color/bootleg_accent_gradient_end_color" android:endColor="@*android:color/accent_device_default_light" android:angle="0" />
+                        <gradient android:startColor="@*android:color/bootleg_accent_gradient_end_color" android:endColor="@*android:color/accent_device_default" android:angle="0" />
                     </shape>
                 </item>
             </selector>
