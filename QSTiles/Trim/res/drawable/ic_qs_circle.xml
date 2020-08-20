@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidUnknownAttribute -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <vector
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:width="42dp"
+            android:height="42dp"
+            android:viewportWidth="104"
+            android:viewportHeight="104">
+            <group
+                android:translateX="2"
+                android:translateY="2">
+                <path
+                    android:pathData="@*android:string/config_icon_mask"
+                    android:strokeWidth="3"
+                    android:strokeColor="#fff" />
+            </group>
+        </vector>
+    </item>
+    <item android:bottom="3dp" android:right="3dp" android:left="3dp" android:top="3dp">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="36dp"
+            android:height="36dp"
+            android:viewportWidth="100"
+            android:viewportHeight="100">
+            <path
+                android:pathData="@*android:string/config_icon_mask"
+                android:fillColor="#fff" />
+        </vector>
+    </item>
+</layer-list>

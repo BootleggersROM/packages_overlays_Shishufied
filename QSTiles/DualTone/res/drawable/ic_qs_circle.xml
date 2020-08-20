@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="42dp" android:width="42dp">
+        <vector
+            android:width="42dp"
+            android:height="42dp"
+            android:viewportWidth="100"
+            android:viewportHeight="100">
+            <path
+                android:fillType="evenOdd"
+                android:pathData="@*android:string/config_icon_mask"
+                android:fillColor="#ffffff"
+                android:fillAlpha="0.80" />
+        </vector>
+    </item>
+    <item android:bottom="21dp">
+        <vector
+            android:width="42dp"
+            android:height="21dp"
+            android:viewportWidth="100"
+            android:viewportHeight="50">
+            <path
+                android:fillType="evenOdd"
+                android:pathData="@*android:string/config_icon_mask"
+                android:fillColor="#ffffff" />
+        </vector>
+    </item>
+</layer-list>

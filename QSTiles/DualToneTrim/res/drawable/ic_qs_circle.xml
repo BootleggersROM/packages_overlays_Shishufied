@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidUnknownAttribute -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <vector
+            android:width="42dp"
+            android:height="42dp"
+            android:viewportWidth="104"
+            android:viewportHeight="104">
+            <group
+                android:translateX="2"
+                android:translateY="2">
+                <path
+                    android:pathData="@*android:string/config_icon_mask"
+                    android:strokeWidth="3"
+                    android:strokeColor="#fff" />
+            </group>
+        </vector>
+    </item>
+    <item android:bottom="3dp" android:right="3dp" android:left="3dp" android:top="3dp">
+        <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+            <item>
+                <vector
+                    android:width="36dp"
+                    android:height="36dp"
+                    android:viewportWidth="100"
+                    android:viewportHeight="100">
+                    <path
+                        android:fillType="evenOdd"
+                        android:pathData="@*android:string/config_icon_mask"
+                        android:fillColor="#ffffff"
+                        android:fillAlpha="0.80" />
+                </vector>
+            </item>
+            <item android:bottom="18dp">
+                <vector
+                    android:width="36dp"
+                    android:height="18dp"
+                    android:viewportWidth="100"
+                    android:viewportHeight="50">
+                    <path
+                        android:fillType="evenOdd"
+                        android:pathData="@*android:string/config_icon_mask"
+                        android:fillColor="#ffffff" />
+                </vector>
+            </item>
+        </layer-list>
+    </item>
+</layer-list>

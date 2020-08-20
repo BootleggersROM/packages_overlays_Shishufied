@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidUnknownAttribute -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="42dp"
+    android:height="42dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+        <path
+            android:pathData="@*android:string/config_icon_mask"
+            android:fillColor="@*android:color/gradient_monochrome" />
+</vector>

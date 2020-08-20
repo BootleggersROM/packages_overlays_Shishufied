@@ -127,6 +127,31 @@ PRODUCT_PACKAGES += \
     ShishuAmalgamationThemeSettingsOverlay \
     ShishuAmalgamationThemeSystemUIOverlay
 
+# QS Tile Styles packages
+PRODUCT_PACKAGES += \
+    QSTileDualTone \
+    QSTileTrim \
+    QSTileDualToneTrim \
+    QSTileMonoGradient \
+    QSTileInkdrop \
+    QSTileIconAccent \
+    QSTileShishuNights \
+    QSTileMemedoSquare \
+    QSTileWavey \
+    QSTileAttemptMountain \
+    QSTileDottedCircle \
+    QSTileNinja \
+    QSTilePokesign \
+    QSTileShishuInk \
+    QSTileCookie \
+    QSTileCosmos \
+    QSTileDividedCircle \
+    QSTileNeonLight \
+    QSTileOxygen \
+    QSTileTriangles \
+    QSTileGradient \
+    QSTilePureAccent
+
 # Hot garbage
 #PRODUCT_PACKAGES += \
 #    DarkThemeAndroidOverlay \
@@ -213,28 +238,6 @@ ifeq ($(BOOTLEGGERS_BUILD_TYPE),Shishufied)
     packages/overlays/Shishufied/ShishufiedOverlays
 endif
 
-##Quicksettings Tiles icons
-#PRODUCT_PACKAGES += \
-#	QSTileSquircle \
-#	QSTileTearDrop \
-#	QSTileCircleDual \
-#	QSTileCircleGradient \
-#	QSTileInkdrop \
-#	QSTileIconAccent \
-#	QSTileShishuNights \
-#	QSTileMemedoSquare \
-#	QSTileWavey \
-#	QSTileAttemptMountain \
-#	QSTileDottedCircle \
-#	QSTileNinja \
-#	QSTilePokesign \
-#	QSTileShishuInk \
-#    QSTileCookie \
-#    QSTileCosmos \
-#    QSTileDividedCircle \
-#    QSTileNeonLight \
-#    QSTileOxygen \
-#    QSTileTriangles
 ## DO NOT MERGE - 
 #PRODUCT_PACKAGES += \
 #    ShishuTestOv \

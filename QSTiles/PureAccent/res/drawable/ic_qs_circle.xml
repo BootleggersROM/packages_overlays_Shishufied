@@ -6,7 +6,8 @@
                 android:viewportWidth="100"
                 android:viewportHeight="100">
             <path
+                android:fillType="evenOdd"
                 android:pathData="@*android:string/config_icon_mask"
                 android:fillColor="#fff"
-                android:fillAlpha="0.25" />
+                android:fillAlpha="0.25"/>
         </vector>
