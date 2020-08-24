@@ -141,7 +141,6 @@ PRODUCT_PACKAGES += \
     QSTileAttemptMountain \
     QSTileDottedCircle \
     QSTileNinja \
-    QSTilePokesign \
     QSTileShishuInk \
     QSTileCookie \
     QSTileCosmos \
