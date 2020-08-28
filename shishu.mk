@@ -31,6 +31,7 @@ PRODUCT_PACKAGES += \
     GoldenGold \
     MeltedBrainRed \
     OuttaTouchCyan \
+    FarewellDreamFlight \
     SakuraPink
 
 # Fonts required overlays packages
